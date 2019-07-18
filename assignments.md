@@ -3,14 +3,6 @@
 This assignment is included in my Applied Machine Learning I workshop.
 
 ## Assignment
-Learn how to use the Spyder IDE. Follow these steps:
-- Start Spyder
-- Work with default initial file
-- Create a very simple program: print(“hello”)
-- Save the .py file
-- Run the program
-- Verify the output 
-
 Set the k value in the KNN algorithm and identify the k values where the precision drops below:
 - 90%
 - 80%
