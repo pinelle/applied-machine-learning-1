@@ -1,6 +1,6 @@
 ## Applied Machine Learning I Code Samples
 
-These are the code samples covered in the slides for my Applied Machine Learning I workshop.
+This is the code sample covered in the slides for my Applied Machine Learning I workshop.
 
 ## K-Nearest Neighbors
 
