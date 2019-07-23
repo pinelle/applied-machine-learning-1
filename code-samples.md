@@ -15,8 +15,8 @@ from sklearn.neighbors import KNeighborsClassifier
 iris_dataset = load_iris()
 
 #Characterize the dataset
-print("\n\nKeys of iris_dataset:\n", iris_dataset.keys())  #show the keys
-print(iris_dataset['DESCR'][:500] + "\n...") #show the dataset description
+print("\n\nKeys of iris_dataset:\n", iris_dataset.keys())  
+print(iris_dataset['DESCR'][:500] + "\n...") 
 
 #characterize the data, made up of four features (columns)
 print("Feature names:\n", iris_dataset['feature_names'])
