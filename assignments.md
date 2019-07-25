@@ -3,6 +3,8 @@
 This assignment is included in my Applied Machine Learning I workshop.
 
 ## Assignment
+Copy and paste the assignment into a new Anaconda window.
+
 Set the k value in the KNN algorithm and identify the k values where the precision drops below:
 - 90%
 - 80%
@@ -11,8 +13,6 @@ Set the k value in the KNN algorithm and identify the k values where the precisi
 Start with a k value of 15, and then increment by 10 for each successive run. 
 
 When you get close to a target score, start using smaller increments (stick with odd k values) until you find the proper k values.
-
-Use this code in your assignment:
 
 ```markdown
 from sklearn.datasets import load_iris
