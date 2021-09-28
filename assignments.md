@@ -1,4 +1,4 @@
-## Applied Machine Language I
+## Applied Machine Learning I
 
 This assignment is included in my Applied Machine Learning I workshop.
 
